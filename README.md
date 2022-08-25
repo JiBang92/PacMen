@@ -15,7 +15,7 @@ In this project, we implement HTML, CSS, and Javascript to generate a PacMan ima
 This project will most likely be revisited to test generating different variations of PacMan, including colors, sizes, and orientations.
 <br>
 <br>
-To view this project directly, Click <a href="https://jibang92.github.io/Profile/PacMen/index.html">HERE</a>
+<b> --> To view this project directly, Click <a href="https://jibang92.github.io/Profile/PacMen/index.html">HERE</a></b>
 <br>
 <br>
 <br>
